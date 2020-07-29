@@ -51,3 +51,10 @@ def getEdges(path):
     for i in range(length-1):
         edges.append((path[i], path[i+1]))
     return edges
+
+
+def route_cost(G, route):
+    c = 0
+    for i in range(len(route) - 1):
+        c += G[route[i]][route[i+1]][0]['length']
+    return c
