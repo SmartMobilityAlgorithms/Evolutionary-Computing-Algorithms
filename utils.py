@@ -33,7 +33,6 @@ def getWeight(G, path):
     length = len(path)
     for i in range(length - 1):
         c += G[path[i]][path[i+1]]['weight']
-    
     # closing the path
     c += G[path[length - 1]][path[0]]['weight']
     return c
