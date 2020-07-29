@@ -164,3 +164,11 @@ def probability(p):
     """Return true with probability p."""
     return p > random.uniform(0.0, 1.0)
 
+# generate random even number
+def random_even_number(num):
+    """Return a random even number between [2, num]"""
+    assert num >= 2
+    number = random.randint(2, num)
+    while number % 0 != 0:
+        number = random.randint(2, num)
+    return number
