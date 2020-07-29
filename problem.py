@@ -169,6 +169,6 @@ def random_even_number(num):
     """Return a random even number between [2, num]"""
     assert num >= 2
     number = random.randint(2, num)
-    while number % 0 != 0:
+    while number % 2 != 0:
         number = random.randint(2, num)
     return number
