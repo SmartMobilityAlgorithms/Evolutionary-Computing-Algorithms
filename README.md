@@ -3,7 +3,7 @@ Evolutionary Computation (EC) is a sub-field of computational intelligence that 
 
 ---
 ## Algorithm Notebooks
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Evolutionary-Computing-Algorithms/blob/master/genetic_search.ipynb) Genetic Algorithm :white_check_mark:
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Evolutionary-Computing-Algorithms/blob/master/genetic_search.ipynb) Genetic Algorithm (GA) :white_check_mark:
 
 - [Non dominated sorting genetic algorithm (NSGA-II)](https://www.iitk.ac.in/kangal/Deb_NSGA-II.pdf)
 
