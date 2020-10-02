@@ -19,7 +19,7 @@ Evolutionary Computation (EC) is a sub-field of computational intelligence that 
 
 ---
 ## Toy Problem Notebooks
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Evolutionary-Computing-Algorithms/blob/master/TSP_genetic_search.ipynb) Travelling Salesman Problem
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Evolutionary-Computing-Algorithms/blob/master/TSP_genetic_search.ipynb) Travelling Salesman Problem :white_check_mark:
 
 ---
 ## Case Study Notebook
