@@ -3,9 +3,19 @@ Evolutionary Computation (EC) is a sub-field of computational intelligence that 
 
 ---
 ## Algorithm Notebooks
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Evolutionary-Computing-Algorithms/blob/master/genetic_search.ipynb) Genetic Algorithm
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SmartMobilityAlgorithms/Evolutionary-Computing-Algorithms/blob/master/genetic_search.ipynb) Genetic Algorithm :white_check_mark:
 
 - [Non dominated sorting genetic algorithm (NSGA-II)](https://www.iitk.ac.in/kangal/Deb_NSGA-II.pdf)
+
+- Difential Evolution (DE) :hourglass:
+
+- Genetic Programming (GP) :hourglass:
+
+- Evolution Strategy (ES) :hourglass:
+
+- Evolutionary Algorithms (EA) :hourglass:
+
+- Neuroevolution :hourglass:
 
 ---
 ## Toy Problem Notebooks
@@ -13,4 +23,6 @@ Evolutionary Computation (EC) is a sub-field of computational intelligence that 
 
 ---
 ## Case Study Notebook
-- Optimal Dynamic Routing of First Response Emergency Vehicles
+- Optimal Dynamic Routing of First Response Emergency Vehicles :hourglass:
+
+- Ridesharing :hourglass:
