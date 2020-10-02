@@ -12,7 +12,7 @@ Evolutionary Computation (EC) is a sub-field of computational intelligence that 
 
 - [Non dominated sorting genetic algorithm (NSGA-II)](https://www.iitk.ac.in/kangal/Deb_NSGA-II.pdf)
 
-- Difential Evolution (DE) :hourglass:
+- Differential Evolution (DE) :hourglass:
 
 - Genetic Programming (GP) :hourglass:
 
@@ -28,6 +28,6 @@ Evolutionary Computation (EC) is a sub-field of computational intelligence that 
 
 ---
 ## Case Study Notebooks
-- Optimal Dynamic Routing of First Response Emergency Vehicles :hourglass:
+- Optimal Dynamic Routing :hourglass:
 
 - Ridesharing :hourglass:
