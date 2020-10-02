@@ -27,7 +27,7 @@ Evolutionary Computation (EC) is a sub-field of computational intelligence that 
 - Travelling Salesman Problem :white_check_mark:
 
 ---
-## Case Study Notebook
+## Case Study Notebooks
 - Optimal Dynamic Routing of First Response Emergency Vehicles :hourglass:
 
 - Ridesharing :hourglass:
