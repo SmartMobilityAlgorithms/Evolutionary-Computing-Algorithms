@@ -8,7 +8,9 @@ Evolutionary Computation (EC) is a sub-field of computational intelligence that 
 
 ---
 ## Algorithm Notebooks
-- Genetic Algorithm (GA) :white_check_mark:
+- Simple Genetic Algorithm (SGA) :white_check_mark:
+
+- Permutation Genetic Algorithm (GA) :white_check_mark:
 
 - [Non dominated sorting genetic algorithm (NSGA-II)](https://www.iitk.ac.in/kangal/Deb_NSGA-II.pdf)
 
