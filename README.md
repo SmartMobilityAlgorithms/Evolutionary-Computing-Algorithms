@@ -10,7 +10,7 @@ Evolutionary Computation (EC) is a sub-field of computational intelligence that 
 ## Algorithm Notebooks
 - Simple Genetic Algorithm (SGA) :white_check_mark:
 
-- Non dominated sorting genetic algorithm (NSGA-II)
+- Non dominated sorting genetic algorithm (NSGA-II) :hourglass:
 
 - Differential Evolution (DE) :hourglass:
 
